@@ -1,0 +1,21 @@
+{
+    "name": "yuncaiinc/icsearch",
+    "description": "IC Search",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lance"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "elasticsearch/elasticsearch": "5.2",
+        "yuncaiinc/icanalysis": "*@dev"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ICSearch\\": "src/ICSearch"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "yuncaiinc/icanalysis",
+    "description": "IC Analysis",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Lance"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.4",
+        "elasticsearch/elasticsearch": "5.2"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ICAnalysis\\": "src/ICAnalysis"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+s:停止词
+和,产品,the,an,with,for,&,other,其他,其它,及,的,是,在,就,往,封装,型号,精度,规格,待定,间距,编带
+
+n:姓或其它专用前缀词
+
+u:单位或专用后缀词
+conductors,positions,channels,circuits,contacts,contact,outlets,outputs,cycles,mbit/s,ppm/°c,gates,kohms,mohms,ppm/℃,uarts,watts,kohm,mohm,adcs,bits,byte,gbps,inch,kbit,kbps,mbps,mv/g,ohms,pins,rows,uart,vrms,µcd,adc,amp,awg,bar,bit,dba,gbd,ghz,khz,mbd,mcd,mhz,ohm,pin,ppm,vac,vdc,kwh,千瓦时,pos,µa,µf,µh,µs,µv,µw,µΩ,cd,cm,db,ft,gb,gΩ,hz,in,ka,kb,kg,km,kv,kw,kΩ,lb,ma,mb,mh,mm,mv,mw,mΩ,na,nc,nf,nh,ns,pf,tΩ,ua,uf,uh,us,uv,uw,uΩ,va,μa,μf,μh,μs,μv,μw,μΩ,触点,触头,电路,端口,法拉,分米,毫安,毫法,毫米,毫欧,毫瓦,赫兹,回路,厘米,纳法,欧姆,千米,千欧,千瓦,通道,万次,微法,引脚,英尺,英寸,兆欧,dm,pa,位元,位置,°c,%,°,a,b,℃,f,g,h,k,m,r,u,v,w,Ω,安,次,寸,段,个,股,脚,孔,路,门,米,欧,排,条,瓦,位,线,芯,针,只,p,mm2,port,element,in,ppm/c,degc,mmsq,volt,gb/s,amps,feet,mm²,k-bit,k-bits,watt,foot,v/µs,vin,vout,mips,dac,ah,hour,pvh,cycle,cycles,signal,cfm,psi,deg,nm,conductor,mbyte,bytes,gbyte,mf,kvolts,ksps,msps,gsps,per,mbits,度,安培,字节,法,克,吉赫,gohms,gohm,吉欧,亨,千安,kbyte,kbits,千克,公斤,k赫兹,千赫,公里,千伏,maout,main,毫亨,兆赫,毫伏,纳亨,纳秒,皮法,tohms,tohm,太欧,微安,微亨,uohm,uohms,微欧,微秒,微伏,微瓦,伏,伏特,volts,伏安,瓦特,position,cond,安时,sqmm
+a:地名等后置词
+语,署,苑,街,省,湖,乡,海,观,路,娃,山,阁,部,镇,江,河,厅,郡,厂,楼,园,区,党,井,亭,塔,县,家,市,弄,巷,寺,局,中路,村委,诺夫,斯基,维奇,村委会,机,型,率
+
+c:数量前缀词
+零,一,二,三,四,五,六,七,八,九,十,百,千,万,亿,第,半,几,俩,卅,两,壹,贰,叁,肆,伍,陆,柒,捌,玖,拾,伯,仟
+
+t:省会等专用词
+京,津,沪,渝,冀,豫,云,辽,黑,湘,皖,鲁,新,苏,浙,赣,鄂,桂,甘,晋,蒙,陕,吉,闽,贵,粤,青,藏,川,宁,琼
