@@ -9,6 +9,7 @@ api文档采用的是apidocjs,安装好apidoc命令后可用命令生成文档�
 文档在docs目录
 仅包含token的获取、刷新、删除三个api
 
+本例中沒有采用dingo api里使用header传版本的方式，而是在url上添加版本信息
 
 初始使用
 根据自身条件填写.env
